@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Spencer L Willardson</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Spencer L Willardson 2020</copyright><lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Building a Parallel World Order</title>
+      <link>/publication/isr2020/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/isr2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Rights and Democratic Arms Transfers: Rhetoric Versus Reality with Different Types of Major Weapon Systems</title>
+      <link>/publication/isq2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/isq2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detention as a Peacemaking Strategy: The 2007–08 Iraq Surge and US Detention Policy</title>
+      <link>/publication/fpa2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/fpa2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neoliberal Reform and Protest in Latin American Democracies: A Replication and Correction</title>
+      <link>/publication/rp2014/</link>
+      <pubDate>Wed, 25 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rp2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Under the Influence of Arms: The Foreign Policy Causes and Consequences of Arms Transfers</title>
+      <link>/publication/diss2013/</link>
+      <pubDate>Sat, 20 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/diss2013/</guid>
+      <description>&lt;p&gt;This is a link to my disseration with the University of Iowa.  My work was very preliminary, but is foundational to the way I think about arms now and my current projects with Richard Johnson and my individual book manuscript project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strategic Intelligence During COIN Detention Operations: Relational Data and Understanding Latent Terror Networks</title>
+      <link>/publication/dsa2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/dsa2013/</guid>
+      <description>&lt;p&gt;This project came out of a weekly paper I wrote for my first year research design seminar for Douglas Dion in Fall 2008.  It was one of the worst papers I wrote in graduate school. It went through many iterations.  It is based on my experiences while stationed at Camp Bucca in Iraq from September 2007-April 2008.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
